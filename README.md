@@ -21,7 +21,7 @@ Este laboratório tem como objetivo explorar as funcionalidades do Copiloto e da
      * Europa Ocidental
      * Oeste dos EUA
 
-Aguarde até que seu *projeto* e *hub* sejam criados.
+   Aguarde até que seu *projeto* e *hub* sejam criados.
 
 5. Na página de *Visão Geral* dos detalhes do projeto, selecione **Playgrounds**, no menu à esquerda da tela.
 
